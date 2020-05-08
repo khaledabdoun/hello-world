@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Jenkins Laaaaab !!! </h1>
+<h2> Project 1 - Deploying tomcat </h2>
